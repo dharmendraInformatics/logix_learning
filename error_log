@@ -1,0 +1,2 @@
+[20-Mar-2021 05:10:41 UTC] PHP Warning:  require_once(/home1/logixicg/public_html/aryabhatt/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home1/logixicg/public_html/aryabhatt/index.php on line 315
+[20-Mar-2021 05:10:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/logixicg/public_html/aryabhatt/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/logixicg/public_html/aryabhatt/index.php on line 315
